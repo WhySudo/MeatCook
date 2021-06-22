@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.MeatCook.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Gamedev\MeatCook\MeatCook\.idea\.idea.MeatCook\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
